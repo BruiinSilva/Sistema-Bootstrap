@@ -1,0 +1,33 @@
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover {
+    color: #000000;
+}
+
+/* foto no indice da página*/
+.bg-nav {
+    background-image: url("../imagens/parede-sombrio-textura-escura-do-cimento-do-preto-do-fundo-93452121.jpg");
+    border-bottom: 2px groove #161616;
+}
+/* mexe na cor do carrosel que tem as fotos*/
+.bg-txt-caroseul {
+    background-color: #000000;
+    opacity: 0.7;
+}
+
+/* cor do fundo da página*/
+body {
+    background-color: #e4d6d6;
+}
+
+footer {
+    color: #fff;
+}
+
+.t{
+    font-family: 'Courier New', Courier, monospace;
+
+}
